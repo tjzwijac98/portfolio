@@ -2,8 +2,8 @@ body {
   width: 100%;
   height: 100vh;
   margin: 0;
- background-color: #7FFFD4;
-  color: #7FFFD4;
+ background-color: rgb(102, 205, 170);
+  color: rgb(102, 205, 170);
 }
 label {
   display: block;
